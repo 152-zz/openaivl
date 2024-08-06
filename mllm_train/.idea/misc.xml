@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="pytest" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="C:\Users\echo\anaconda3\envs\mytorch (7)" project-jdk-type="Python SDK" />
+</project>
